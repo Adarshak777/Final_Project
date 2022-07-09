@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplication1Context"
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}
